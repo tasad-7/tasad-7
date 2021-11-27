@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey I'm Taha👋
 
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/syed-asad/)
