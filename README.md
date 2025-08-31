@@ -1,9 +1,6 @@
 # Hello World 👋
 📫 Follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-asad/)
 
-## 📊 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tasad-7&layout=compact&count_private=true)
-
 ## 🛠️ Technologies I Work With
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
