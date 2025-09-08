@@ -1,7 +1,6 @@
 # Hello World 👋
 
-- Git commit to your dream 
-- Follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-asad/) 
+Git commit to your dream 
 
 ## 🛠️ Technologies I Work With
 
