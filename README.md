@@ -1,7 +1,7 @@
 # Hello World 👋
 
-- Addicted to learning and growing every day  🌱 
-- Follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-asad/)  📫 
+- Git commit to your dream 
+- Follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-asad/) 
 
 ## 🛠️ Technologies I Work With
 
